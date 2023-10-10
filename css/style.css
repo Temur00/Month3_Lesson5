@@ -524,6 +524,15 @@ a {
   padding-top: 155px;
 }
 
+.site-logos {
+  margin-top: 109px;
+  padding-left: 150px;
+  width: 1140px;
+  height: 70px;
+  display: flex;
+  gap: 47.5px;
+}
+
 /* MEDIA */
 
 @media (max-width: 576px) {
